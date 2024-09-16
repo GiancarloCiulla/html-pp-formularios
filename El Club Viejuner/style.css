@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(19, 97, 160);
+}
+
+h1 {text-align: center;}
+
+p, label{
+    font-weight: bold;
+}

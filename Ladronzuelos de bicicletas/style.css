@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(242, 240, 206);
+}
+h1 {text-align: center;}
+
+p, label{
+    font-weight: bold;
+}
+
+fieldset {
+    max-width: 500px;
+    margin: 10px auto;
+    padding: 30px;
+    background-color: rgb(244, 245, 210);
+    border-radius: 10px;
+}
